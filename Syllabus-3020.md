@@ -1,18 +1,16 @@
-Winter 2019
+Winter 2019  
+Tues, Thur 6-8pm, HUNT 100  
+Wed 2-3:30pm ADMN 307   
 
-Tues, Thur 6-8pm, HUNT 100
+Office Hours: Online and By Appointment, HRDG 240  
+Becky Peltz  
 
-Wed 2-3:30pm ADMN 307
+# Web Application and Technology Studies  
+## WATS 3020 Introduction to JavaScript   
 
-Office Hours: Online and By Appointment, HRDG 240
-
-Becky Peltz
-
-Web Application and Technology Studies
-
-Seattle University
-
-peltzr\@seattleu.edu 206-296-5792
+Seattle University  
+peltzr\@seattleu.edu  
+206-296-5792    
 
 Catalog Description
 -------------------
@@ -27,48 +25,36 @@ user, and more.
 Course Outcomes
 ---------------
 
-**Document Object Model**
+**Document Object Model** 
+Students utilize the Document Object Model (DOM) in order to traverse and modify an HTML document using JavaScript.Rubrics based
+on mastery of:  
 
 1.  DOM Hierarchy
-
 2.  DOM Manipulation
-
 3.  DOM Traversal
 
-**JavaScript Programming**
+**JavaScript Programming**  
+Students write functional JavaScript programs to perform specific functions using proper syntax and thoughtful design.  Rubrics based on mastery of:  
 
 1.  Commenting
-
 2.  Conditionals
-
 3.  Events
-
 4.  Functions
-
 5.  Loops
-
 6.  Object Oriented JavaScript
-
 7.  Operators
-
-8.  String Manipulation
-
+8.  String Manipulation  
 9.  Syntax and Style
-
 10. Variables
 
-**Professional Practice**
+**Professional Practice**  
+Students are able to interact with colleagues, including other developers, in a way that matches professional expectations. Rubrics based on master of:
 
 1.  Conversation Participation
-
 2.  Effective Communications
-
 3.  Fulfills Project Requirements
-
 4.  Project Planning
-
 5.  Project Proposal
-
 6.  Timely Response to Colleagues
 
 Program Level Outcomes this Course Supports
@@ -101,6 +87,9 @@ Learn how to work on a modern web development team, including basic
 tools like Git and Github, as well as core concepts in project
 management and collaboration. Also learn how to conduct a job hunt and
 practice interviewing and whiteboarding skills.
+
+Assignments
+-----------
 
 Assignments
 -----------
@@ -160,14 +149,11 @@ process.
 Be sure that you understand the following university academic policies,
 posted on the Registrar's website:
 
--   [ACADEMIC INTEGRITY POLICY (Links to an external site.)Links to an
-    > external site.]{.underline}
+- [ACADEMIC INTEGRITY POLICY](https://www.seattleu.edu/academic-integrity/)
 
--   [ACADEMIC GRADING GRIEVANCE POLICY (Links to an external site.)Links
-    > to an external site.]{.underline}
+- [ACADEMIC GRADING GRIEVANCE POLICY](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Academic-Grading-Grievance-2004-07.pdf)
 
--   [PERFORMANCE CRITERIA (Links to an external site.)Links to an
-    > external site.]{.underline}
+- [PERFORMANCE CRITERIA](https://www.seattleu.edu/search/?q=academics%20performance)
 
 ### Incomplete Grades
 
@@ -179,17 +165,14 @@ doctor's note, note from counselor).
 An agreement to receive an Incomplete (I) grade may be negotiated if
 your circumstances do not allow you to finish the course on time. The
 Incomplete Removal Policy of the university is available on the Office
-of the Registrar web site: [[Incomplete Grade Policy (Links to an
-external site.)Links to an external
-site.]{.underline}](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Incomplete-Grades-97-03.pdf)
+of the Registrar web site: [Incomplete Grade
+Policy](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Incomplete-Grades-97-03.pdf).
 
 ### Assignment Deadlines and Extensions
 
-Assignment deadlines are visible on both the [[Course
-Syllabus]{.underline}](https://seattleu.instructure.com/courses/1583477/assignments/syllabus)
-and the [[Assignments
-list]{.underline}](https://seattleu.instructure.com/courses/1583477/assignments)
-(as well as the individual Assignment pages themselves). You can always
+Assignment deadlines are visible on both the Course
+Syllabus and the Assignments
+list (as well as the individual Assignment pages themselves). You can always
 find links to those two pages in the left sidebar of the course.
 
 Due to the nature of the work, and the online structure of the course
@@ -224,9 +207,9 @@ Required Tools/Software
 In order to complete the work in this course, you will need to have a
 few services at your disposal:
 
-### Github
+### GitHub
 
-You will use your Github account to access project resources, to host
+You will use your GitHub account to access project resources, to host
 your working repositories, and to publish your working web pages. Github
 is a service that allows you to store and share your work with other
 developers. It is a commonly used tool in web development, and an
@@ -253,8 +236,8 @@ access our Slack server.
 ### Lynda.com
 
 Anyone taking courses in King County (which includes anyone enrolled at
-SU) can access Lynda.com courses [[through the King County Library
-website]{.underline}](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com).
+SU) can access Lynda.com courses [through the King County Library
+website](https://kcls.org/).
 Lynda.com provides video courses covering many of the topics we will
 cover in this quarter. You are encouraged to use Lynda.com resources to
 fill in your knowledge or provide extra practice where needed. Engaging
@@ -263,69 +246,69 @@ reliable resource for information than just looking up tutorials on
 Google or Youtube.
 
 To access Lynda.com courses, you must do so through the King County
-Library System website (linked above). You will need a King County
-Library Card, which you can apply to get on the King County Library
-System website. [[Click here to apply for your library
-card.]{.underline}](https://www.spl.org/using-the-library/get-started/get-started-with-a-library-card/library-card-application)
-Once you have your library card, you can [[use this link to view
-Lynda.com
-courses]{.underline}](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com).
+Library System or Seattle Public library system. You will need a King County
+Library Card or a Seattle Public Library Car, which you can apply to get on the King County Library
+System website. Once you
+have your library card, you can access Lynda.com
+courses.
 
-SU Web Dev Youtube Channel
+SU Web Dev YouTube Channel
 --------------------------
 
-The SU Web Development Certificate program maintains a [[Youtube
-channel]{.underline}](https://www.youtube.com/channel/UCll_nlSRML4SRkKeUW50imA)
-that hosts videos useful for our students. You will find assignment
+The SU Web Development Certificate program maintains a [YouTube
+channel](https://www.youtube.com/channel/UCll_nlSRML4SRkKeUW50imA) that
+hosts videos useful for our students. You will find assignment
 summaries, technique demos, and all sorts of information useful to many
 assignments. Most assignments link directly to specific videos that are
 useful for that assignment, but it\'s recommended that you subscribe to
-the Youtube channel for two reasons: 1) You will get updates about new
+the YouTube channel for two reasons: 1) You will get updates about new
 videos as soon as they are available. 2) You can more easily access the
-videos through the Youtube apps on many different devices (your TV,
+videos through the YouTube apps on many different devices (your TV,
 Roku, Xbox, PS4, etc.).
 
-###  
 
 ### WATS Lab FAQ
 
 WATS Lab Assignments require setup, configuration and processing. This
-FAQ is a place to search for and locate instructions in a \"How To\"
+[FAQ](https://suwebdev.github.io/wats-lab-faq/) is a place to search for and locate instructions in a \"How To\"
 format. Look here for instructions on operations such as creating a
 gh-pages branch, setting up a local environment and more.
 
 Schedule
 --------
 
-  Week   Topic and Assignments
-  ------ ---------------------------------------------------------------
-  1      Topic: Welcome to JavaScript
-         Project: Mad Libs
-         Discussion: Reflecting on Logical Constructs
-  2      Topic: Data Types
-         Project: Build a Sandwich Machine
-         Discussion: Favorite Fact About Data Types or Data Structures
-  3      Topic: Controlling Logic Flow
-         Project: FizzBuzz
-         Discussion: Diagramming Logic Flow
-  4      Topic: Organizing Code
-         Project: Text Adventure
-         Discussion: Conceptual Abstraction and Grouping
-  5      Topic: Object Oriented Programming
-         Project: Class Roster
-         Discussion: Understanding OOP
-  6      Topic: The Document Object Model
-         Project: Image Maker
-         Discussion: The Relationship between HTML, CSS and JavaScript
-  7      Topic: Handling Events
-         Project: Browser Game
-         Discussion: Considering Events and Timing
-  8      Topic: Final Project Planning
-         Project: Final Project Proposal
-         Discussion: Generating Ideas for Final Projects
-  9      Topic: Final Project Preview
-         Project: Final Project Preview
-         Discussion: Final Project Check-In
-  10     Topic: Final Project Sharing
-         Project: Final Project Complete
-         Discussion: Final Project Sharing
+  |Week |  Topic and Assignments                                   |
+|-----|----------------------------------------------------------|
+| 1   |   Topic: Welcome to JavaScript                   |
+|     |   Project: Mad Libs                                  |
+|     |   Discussion: Reflecting on Logical Constructs     |
+| 2   |   Topic: Data Types                   |
+|     |   Project: Build a Sandwich Machine                  |
+|     |   Discussion: Favorite Fact About Data Types or Data Structures     |
+| 3   |   Topic: Controlling Logic Flow                  |
+|     |   Project: FizzBuzz                                 |
+|     |   Discussion: Diagramming Logic Flow     |
+| 4   |   Topic: Organizing Code                   |
+|     |   Project: Text Adventure                            |
+|     |   Discussion: Conceptual Abstraction and Grouping    |
+| 5   |   Topic: Object Oriented Programming                |
+|     |   Project: Class Roster                            |
+|     |   Discussion: Understanding OOP     |
+| 6   |   Topic: The Document Object Model                   |
+|     |   Project: Image Maker                             |
+|     |  Discussion: The Relationship between HTML, CSS and JavaScript    |
+| 7   |   Topic: Handling Events                |
+|     |   Project: Browser Game                            |
+|     |   Discussion: Considering Events and Timing     |
+| 8   |   Topic: Final Project Planning                |
+|     |  Project: Final Project Proposal                           |
+|     |   Discussion: Generating Ideas for Final Projects    |
+| 9   |   Topic: Final Project Preview                |
+|     |   Project: Final Project Preview                            |
+|     |   Discussion: Final Project Check-In     |
+| 10  |   Topic: Final Project Sharing                |
+|     |    Project: Final Project Complete                           |
+|     |  Discussion: Final Project Sharing    |
+
+
+

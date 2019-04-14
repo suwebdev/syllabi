@@ -6,6 +6,8 @@ Becky Peltz
 
 # Web Application and Technology Studies
 
+## WATS 3010 Introduction to Web Development  
+
 Seattle University  
 peltzr\@seattleu.edu  
 206-296-5792
