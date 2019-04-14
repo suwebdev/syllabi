@@ -1,18 +1,16 @@
-Winter 2019
-
-Tues, Thur 6-8pm, HUNT 100
-
-Office Hours: Online and By Appointment, HRDG 240
-
+Winter 2019  
+Tues, Thur 6-8pm, HUNT 100  
+Office Hours: Online and By Appointment 
+HRDG 240  
 Becky Peltz
 
-Web Application and Technology Studies
+# Web Application and Technology Studies
+## WATS 4030 Capstone
 
-Seattle University
-
-peltzr\@seattleu.edu 206-296-5792
-
-Catalog Description
+Seattle University  
+peltzr\@seattleu.edu   
+206-296-5792  
+Catalog Description  
 -------------------
 
 The capstone project is made up of two components: Production and
@@ -28,58 +26,37 @@ student can use to showcase their skills.
 Course Outcomes
 ---------------
 
-**Portfolio Production**
+**Portfolio Production**  
+Students can create a portfolio of work that highlights relevant achievements and presents themselves in a professional manner. Rubrics are based on Mastery of:
 
-1.  Editorializing Projects
+1.  Editorializing Projects  
+2.  Personal Statement of Purpose  
+3.  Planning the Portfolio  
+4.  Portfolio Design  
+5.  Portfolio Organization  
+6.  Presenting Personal Information  
+7.  Using Third Party Tools  
 
-2.  Personal Statement of Purpose
-
-3.  Planning the Portfolio
-
-4.  Portfolio Design
-
-5.  Portfolio Organization
-
-6.  Presenting Personal Information
-
-7.  Using Third Party Tools
-
-**Project Production**
+**Project Production**  
+Students can conceive of, design, and build a project demonstrating modern frontend web development techniques, can communicate their progress throughout a project build, and can discuss their process and the results at a professional level. Rubrics are based on mastery of:
 
 1.  Accessibility
-
 2.  Analytics
-
 3.  Browser Support
-
 4.  CSS
-
 5.  Data API
-
 6.  Deployment Process
-
 7.  Development Environment Set Up
-
 8.  Development Reflection
-
 9.  HTML
-
 10. In-Progress Deployments
-
 11. Information Architecture
-
 12. JavaScript
-
 13. JS Feature
-
 14. Project Definition
-
 15. Project Planning
-
 16. Regular Progress Reporting
-
 17. Responsive Design
-
 18. Visual Design
 
 Program Level Outcomes this Course Supports
@@ -149,10 +126,10 @@ set up these URL's.
 
 ### Course Assignments and Weighted Values
 
-  Projects     60%
+  Projects     60%  
   ------------ -----
-  Discussion   20%
-  Check In     20%
+  Discussion   20%  
+  Check In     20%  
 
 Policies
 --------
@@ -176,14 +153,11 @@ process.
 Be sure that you understand the following university academic policies,
 posted on the Registrar's website:
 
--   [ACADEMIC INTEGRITY POLICY (Links to an external site.)Links to an
-    > external site.]{.underline}
+- [ACADEMIC INTEGRITY POLICY](https://www.seattleu.edu/academic-integrity/)
 
--   [ACADEMIC GRADING GRIEVANCE POLICY (Links to an external site.)Links
-    > to an external site.]{.underline}
+- [ACADEMIC GRADING GRIEVANCE POLICY](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Academic-Grading-Grievance-2004-07.pdf)
 
--   [PERFORMANCE CRITERIA (Links to an external site.)Links to an
-    > external site.]{.underline}
+- [PERFORMANCE CRITERIA](https://www.seattleu.edu/search/?q=academics%20performance)
 
 ### Incomplete Grades
 
@@ -195,17 +169,14 @@ doctor's note, note from counselor).
 An agreement to receive an Incomplete (I) grade may be negotiated if
 your circumstances do not allow you to finish the course on time. The
 Incomplete Removal Policy of the university is available on the Office
-of the Registrar web site: [[Incomplete Grade Policy (Links to an
-external site.)Links to an external
-site.]{.underline}](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Incomplete-Grades-97-03.pdf)
+of the Registrar web site: [Incomplete Grade
+Policy](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Incomplete-Grades-97-03.pdf).
 
 ### Assignment Deadlines and Extensions
 
-Assignment deadlines are visible on both the [[Course
-Syllabus]{.underline}](https://seattleu.instructure.com/courses/1583477/assignments/syllabus)
-and the [[Assignments
-list]{.underline}](https://seattleu.instructure.com/courses/1583477/assignments)
-(as well as the individual Assignment pages themselves). You can always
+Assignment deadlines are visible on both the Course
+Syllabus and the Assignments
+list (as well as the individual Assignment pages themselves). You can always
 find links to those two pages in the left sidebar of the course.
 
 Due to the nature of the work, and the online structure of the course
@@ -243,7 +214,7 @@ few services at your disposal:
 ### GitHub
 
 You will use your GitHub account to access project resources, to host
-your working repositories, and to publish your working web pages. GitHub
+your working repositories, and to publish your working web pages. Github
 is a service that allows you to store and share your work with other
 developers. It is a commonly used tool in web development, and an
 essential part of these courses.
@@ -270,29 +241,27 @@ access our Slack server.
 
 Anyone taking courses in King County (which includes anyone enrolled at
 SU) can access Lynda.com courses [through the King County Library
-website](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com).
+website](https://kcls.org/).
 Lynda.com provides video courses covering many of the topics we will
 cover in this quarter. You are encouraged to use Lynda.com resources to
 fill in your knowledge or provide extra practice where needed. Engaging
 with Lynda.com courses is entirely optional, but they can be a more
 reliable resource for information than just looking up tutorials on
-Google or YouTube.
+Google or Youtube.
 
 To access Lynda.com courses, you must do so through the King County
-Library System website (linked above). You will need a King County
-Library Card, which you can apply to get on the King County Library
-System website. [Click here to apply for your library
-card.](https://www.spl.org/using-the-library/get-started/get-started-with-a-library-card/library-card-application)
-Once you have your library card, you can [use this link to view
-Lynda.com
-courses](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com).
+Library System or Seattle Public library system. You will need a King County
+Library Card or a Seattle Public Library Car, which you can apply to get on the King County Library
+System website. Once you
+have your library card, you can access Lynda.com
+courses.
 
 SU Web Dev YouTube Channel
 --------------------------
 
-The SU Web Development Certificate program maintains a [[Youtube
-channel.]{.underline}](https://www.youtube.com/channel/UCll_nlSRML4SRkKeUW50imA)
-that hosts videos useful for our students. You will find assignment
+The SU Web Development Certificate program maintains a [YouTube
+channel](https://www.youtube.com/channel/UCll_nlSRML4SRkKeUW50imA) that
+hosts videos useful for our students. You will find assignment
 summaries, technique demos, and all sorts of information useful to many
 assignments. Most assignments link directly to specific videos that are
 useful for that assignment, but it\'s recommended that you subscribe to
@@ -301,45 +270,48 @@ videos as soon as they are available. 2) You can more easily access the
 videos through the YouTube apps on many different devices (your TV,
 Roku, Xbox, PS4, etc.).
 
+
 ### WATS Lab FAQ
 
 WATS Lab Assignments require setup, configuration and processing. This
-FAQ is a place to search for and locate instructions in a \"How To\"
+[FAQ](https://suwebdev.github.io/wats-lab-faq/) is a place to search for and locate instructions in a \"How To\"
 format. Look here for instructions on operations such as creating a
 gh-pages branch, setting up a local environment and more.
 
 Schedule
---------
+--------  
 
-  Week   Topic and Assignments
-  ------ -------------------------------------------
-  1      Topic: Orienting
-         Project: Personal Statement
-         Discussion: Hellow, Finding Your Role
-  2      Topic: Portfolio Concepting
-         Project: Project Planning Document
-         Discussion: Influential Portfolios
-  3      Topic: Portfolio Build
-         Project: Portfolio Build
-         Discussion: Share Portfolios
-  4      Topic: Project Concepting
-         Project: Project Planning Document
-         Discussion: Project Concepts
-  5      Topic: Project Build
-         Project: Project Check In
-         Discussion: Dev Diary
-  6      Topic: Project Build
-         Project: Project Check In
-         Discussion: Dev Diary
-  7      Topic: Project Build
-         Project: Project Check In
-         Discussion: Dev Diary
-  8      Topic: Project Build
-         Project: Project Check In
-         Discussion: Dev Diary
-  9      Topic: Project Build
-         Project: Project Check In
-         Discussion: Dev Diary
-  10     Topic: Project and Portfolio Sharing
-         Project: Capstone Project: Final Delivery
-         Discussion: Share Capstone Projects
+Week |  Topic and Assignments                                   |
+|-----|----------------------------------------------------------|
+| 1   |   Topic: Orienting                   |
+|     |   Project: Personal Statement                                   |
+|     |   Discussion: Hello, Finding Your Role     |
+| 2   |   Topic: Portfolio Concepting                   |
+|     |   Project: Project Planning Document                            |
+|     |   Discussion: Influential Portfolios     |
+| 3   |   Topic: Portfolio Build                   |
+|     |   Project: Portfolio Build                                   |
+|     |   Discussion: Share Portfolios     |
+| 4   |   Topic: Project Concepting                   |
+|     |   Project: Project Planning Document                          |
+|     |   Discussion: Project Concepts     |
+| 5   |   Topic: Project Build                   |
+|     |   Project: Project Check In                                   |
+|     |   Discussion: Dev Diary     |
+| 6   |   Topic: Project Build                   |
+|     |   Project: Project Check In                                   |
+|     |   Discussion: Dev Diary     |
+| 7   |   Topic: Project Build                   |
+|     |   Project: Project Check In                                   |
+|     |   Discussion: Dev Diary     |
+| 8   |   Topic: Project Build                   |
+|     |   Project: Project Check In                                   |
+|     |   Discussion: Dev Diary     |
+| 9   |   Topic: Project Build                   |
+|     |   Project: Project Check In                                   |
+|     |   Discussion: Dev Diary     |
+| 10  |   Topic: Project and Portfolio Sharing                   |
+|     |   Project: Capstone Project: Final Delivery                      |
+|     |   Discussion: Share Capstone Projects    |
+
+
