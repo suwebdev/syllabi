@@ -1,16 +1,14 @@
-Winter 2019
+Winter 2019  
+Tues, Thur 6-8pm, HUNT 100   
+Office Hours: Online and By Appointment  
+Megan Otis  
 
-Tues, Thur 6-8pm, HUNT 100
+# Web Application and Technology Studies
+## WATS 3030 Servers and Hosting  
 
-Office Hours: Online and By Appointment
-
-Megan Otis
-
-Web Application and Technology Studies
-
-Seattle University
-
-<otism@seattleu.edu> \| 206-296-6354
+Seattle University  
+otism\@seattleu.edu  
+206-296-6354
 
 Catalog Description
 -------------------
@@ -25,52 +23,44 @@ principles at work in cloud-based hosting solutions.
 Course Outcomes
 ---------------
 
-**Domain Management**
+**Domain Management**  
+Students are able to use the common functions of domain management services to properly acquire and configure a domain to serve their website. Rubrics based on master of:
 
 1.  Acquiring Domains
 
 2.  Configuring Custom Domains
 
-**Project Planning**
+**Project Planning**  
+Students plan web projects using common techniques, approaches, and tools. Rubrics base on mastery of:
 
 1.  Information Architecture
-
 2.  Project Definition
-
 3.  Project Planning
 
-**Serving Web Content**
+**Serving Web Content**  
+Students are able to use the appropriate web server(s) to serve their web apps and content. Rubrics based on mastery of:
 
 1.  Acquiring Hosting Services
-
 2.  Basic Server Configuration
-
 3.  Caching and Optimization
-
 4.  Cloning Code Repositories
-
 5.  Configuring Hosting Services
-
 6.  Securing Web Apps
-
 7.  Setting File and Directory Configurations
 
-**Unix/Linux Usage**
+**Unix/Linux Usage**  
+tudents are able to use Unix and Linux operating systems to manage key details of their projects and servers in order to develop and deploy websites. Rubrics base on mastery of:
 
 1.  Common Command Line Utilities
-
 2.  Completing All Requirements
-
 3.  Navigating the Command Line
-
 4.  Text Editors
-
 5.  Transferring Files
 
 Program Level Outcomes this Course Supports
 -------------------------------------------
 
-**System Operations**\
+**System Operations**  
 Learn how to publish websites online so they can be accessed by anyone
 in the world, and how to leverage free software that can transform your
 business or creative potential.
@@ -115,10 +105,10 @@ the assignment.
 
 ### Course Assignments and Weighted Values
 
-  ------------ -----
-  Projects     60%
-  Discussion   20%
-  Check In     20%
+  ------------ -----  
+  Projects     60%  
+  Discussion   20%  
+  Check In     20%  
   ------------ -----
 
 Policies
@@ -158,16 +148,14 @@ doctor's note, note from counselor).
 An agreement to receive an Incomplete (I) grade may be negotiated if
 your circumstances do not allow you to finish the course on time. The
 Incomplete Removal Policy of the university is available on the Office
-of the Registrar web site:
-<https://www.seattleu.edu/redhawk-axis/academic-policies/>
+of the Registrar web site: [Incomplete Grade
+Policy](https://www.seattleu.edu/media/redhawk-service-center/registrar/registrar-policies/Incomplete-Grades-97-03.pdf).
 
 ### Assignment Deadlines and Extensions
 
-Assignment deadlines are visible on both the [[Course
-Syllabus]{.underline}](https://seattleu.instructure.com/courses/1583473/assignments/syllabus)
-and the [[Assignments
-list]{.underline}](https://seattleu.instructure.com/courses/1583477/assignments)
-(as well as the individual Assignment pages themselves). You can always
+Assignment deadlines are visible on both the Course
+Syllabus and the Assignments
+list (as well as the individual Assignment pages themselves). You can always
 find links to those two pages in the left sidebar of the course.
 
 Due to the nature of the work, and the online structure of the course
@@ -210,36 +198,14 @@ your base domain at your professional portfolio. Github is a service
 that allows you to store and share your work with other developers. It
 is a commonly used tool in web development, and an essential part of
 these courses.
-
-Digital Ocean
-
-This is the service we will use throughout the quarter for hosting our
-servers. If you sign up for the [Github Student Developer
-Pack](https://education.github.com/pack) you will receive access to the
-best developer tools all in one place, and specifically for Digital
-Ocean you will receive a \$50 credit to use throughout the quarter.
-
-Visual Studio Code
-
-[Visual Studio Code (VS Code)](https://code.visualstudio.com/) is an
-open source integrated development environment (IDE) used extensively
-for the development of applications in many languages. It is
-particularly friendly and useful for Front End Web Development. You need
-to install on your local workstation or laptop and we have instructions
-for both in
-[FAQ](https://suwebdev.github.io/wats-lab-faq/second-question.html) and
-[Video
-Format](https://www.youtube.com/playlist?list=PLedjWp3a2wWx0zCB8ATulKP47NaDDRwiY).
-
 ### Slack
 
 In order to provide more immediate help and assistance, you are invited
-to join the [SU Web Development Slack
-server](https://suwebdev.slack.com/), which provides you with persistent
-team chat with other SU Webdev students. You can use this tool to reach
-out directly to your instructor, communicate with fellow students,
-facilitate private chats, share files/links/code snippets, and much
-more. It\'s a very handy communication tool.
+to join the SU Web Development Slack server, which provides you with
+persistent team chat with other SU Webdev students. You can use this
+tool to reach out directly to your instructor, communicate with fellow
+students, facilitate private chats, share files/links/code snippets, and
+much more. It\'s a very handy communication tool.
 
 You can sign up to Slack with your \@seattleu.edu email address, but
 please be aware that SU email sometimes eats emails from the Slack
@@ -252,28 +218,45 @@ access our Slack server.
 
 ### Lynda.com
 
-Anyone taking courses in Seattle or King County (which includes anyone
-enrolled at SU) can access Lynda.com courses through the [King County
-Library
-website](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com) or
-the [Seattle Public Library
-website](https://www.lynda.com/portal/sip?org=spl.org). Lynda.com
-provides video courses covering many of the topics we will cover in this
-quarter. You are encouraged to use Lynda.com resources to fill in your
-knowledge or provide extra practice where needed. Engaging with
-Lynda.com courses is entirely optional, but they can be a more reliable
-resource for information than just looking up tutorials on Google or
-Youtube.
+Anyone taking courses in King County (which includes anyone enrolled at
+SU) can access Lynda.com courses [through the King County Library
+website](https://kcls.org/).
+Lynda.com provides video courses covering many of the topics we will
+cover in this quarter. You are encouraged to use Lynda.com resources to
+fill in your knowledge or provide extra practice where needed. Engaging
+with Lynda.com courses is entirely optional, but they can be a more
+reliable resource for information than just looking up tutorials on
+Google or Youtube.
 
 To access Lynda.com courses, you must do so through the King County
-Library System website (linked above). You will need a King County
-Library Card, which you can apply to get on the King County Library
-System website. [Click here to apply for your library
-card](https://w3.kcls.org/get-a-library-card). Once you have your
-library card, you can [use this link to view Lynda.com
-courses](http://ezproxy.kcls.org/login?url=http://iplogin.lynda.com).
+Library System or Seattle Public library system. You will need a King County
+Library Card or a Seattle Public Library Car, which you can apply to get on the King County Library
+System website. Once you
+have your library card, you can access Lynda.com
+courses.
 
-SU Web Dev Youtube Channel
+### Digital Ocean
+
+This is the service we will use throughout the quarter for hosting our
+servers. If you sign up for the [Github Student Developer
+Pack](https://education.github.com/pack) you will receive access to the
+best developer tools all in one place, and specifically for Digital
+Ocean you will receive a \$50 credit to use throughout the quarter.
+
+### Visual Studio Code
+
+[Visual Studio Code (VS Code)](https://code.visualstudio.com/) is an
+open source integrated development environment (IDE) used extensively
+for the development of applications in many languages. It is
+particularly friendly and useful for Front End Web Development. You need
+to install on your local workstation or laptop and we have instructions
+for both in
+[FAQ](https://suwebdev.github.io/wats-lab-faq/second-question.html) and
+[Video
+Format](https://www.youtube.com/playlist?list=PLedjWp3a2wWx0zCB8ATulKP47NaDDRwiY).
+
+
+### SU Web Dev Youtube Channel
 
 The SU Web Development Certificate program maintains a [Youtube
 channel](https://www.youtube.com/channel/UCll_nlSRML4SRkKeUW50imA) that
@@ -286,7 +269,7 @@ videos as soon as they are available. 2) You can more easily access the
 videos through the Youtube apps on many different devices (your TV,
 Roku, Xbox, PS4, etc.).
 
-WATS Lab FAQ
+### WATS Lab FAQ
 
 WATS Lab Assignments require setup, configuration and processing. This
 [FAQ](https://suwebdev.github.io/wats-lab-faq/) is a place to search for
@@ -297,44 +280,50 @@ up a local environment and more.
 Schedule
 --------
 
+|Week |  Topic and Assignments                                   |
+|-----|----------------------------------------------------------|
+| 0   |   Topic: Course Information                   |
+|     |   Discussion: Say Hello                                   |
+|     |       |
+| 1   |   Topic: Domains and Hosting                   |
+|     |   Project: Establish a Personal Domain                               |
+|     |   Discussion: How did you choose your domain?     |
+| 2   |   Topic: Introduction to Unix                   |
+|     |   Project: Unix Command-Line Basics                                   |
+|     |   Discussion: Favorite command     |
+|     |   Check-in     |
+| 3   |   Topic: Moving Files                  |
+|     |   Project: Moving Files & Cloning Repositories                     |
+|     |   Discussion: How do you imagine organization?     |
+| 4   |   Topic: Command Line Text Editors                   |
+|     |    Project: Manipulating Text on the Server               |
+|     |   Discussion: Favorite Command Line Text Editor               |
+|     |   Check-in               |
+|     |   Discussion: How do you imagine organization?     |
+| 5   |   Topic: Serving Static Content                   |
+|     |   Project: Serve a Static Website               |
+|     |   Discussion: The Static Website Trend     |
+| 6   |   Topic: Serving Dynamic Content                  |
+|     |   Project: Simple Dynamic Page              |
+|     |   Discussion: What frameworks/webapps are you curious about?    |
+|     |   Check-in               |
+| 7   |   Topic: Installing Web Apps                   |
+|     |   Project: Install a Web App               |
+|     |   Discussion: The Static Website Trend     |
+| 8   |   Topic: Serving Dynamic Content                  |
+|     |   Project: Simple Dynamic Page              |
+|     |   Final Project: Planning Phase            |
+|     |    Discussion: Most Useful Documentation   |
+|     |   Check-in               |
+| 9   |   Topic: Caching and Security                  |
+|     |   Project: Final Project: Caching, Optimization, and Security      |
+|     |   Discussion: Most effective speed or security enhancement?     |
+| 10  |   Topic: Final Project Sharing                  |
+|     |   Project: Final Project: Completed Website Deployment              |
+|     |   Final Project: Planning Phase            |
+|     |   Discussion: Final Project Sharing   |
+|     |   Check-in               |
   ------ ----------------------------------------------------------------
-  Week   Topic and Assignments
-  0      Topic: Course Information
-         Discussion: Say Hello
-  1      Topic: Domains and Hosting
-         Project: Establish a Personal Domain
-         Discussion: How did you choose your domain?
-  2      Topic: Introduction to Unix
-         Project: Unix Command-Line Basics
-         Discussion: Favorite command
-         Check-in
-  3      Topic: Moving Files
-         Project: Moving Files & Cloning Repositories
-         Discussion: How do you imagine organization?
-  4      Topic: Command Line Text Editors
-         Project: Manipulating Text on the Server
-         Discussion: Favorite Command Line Text Editor
-         Check-in
-  5      Topic: Serving Static Content
-         Project: Serve a Static Website
-         Discussion: The Static Website Trend
-  6      Topic: Serving Dynamic Content
-         Project: Simple Dynamic Page
-         Discussion: What frameworks/webapps are you curious about?
-         Check-in
-  7      Topic: Installing Web Apps
-         Project: Install a Web App
-         Final Project: Planning Phase
-         Discussion: Most Useful Documentation
-  8      Topic: Customizing Web Apps
-         Project: Final Project: Site Customization, Theming, and Setup
-         Discussion: Where do you find themes?
-         Check-in
-  9      Topic: Caching and Security
-         Project: Final Project: Caching, Optimization, and Security
-         Discussion: Most effective speed or security enhancement?
-  10     Topic: Final Project Sharing
-         Project: Final Project: Completed Website Deployment
-         Discussion: Final Project Sharing
-         Check-in
-  ------ ----------------------------------------------------------------
+  
+
+ 
