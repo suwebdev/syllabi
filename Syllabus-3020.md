@@ -280,28 +280,28 @@ Schedule
   |Week |  Topic and Assignments                                   |
 |-----|----------------------------------------------------------|
 | 1   |   Topic: Welcome to JavaScript                   |
-|     |   Project: Mad Libs                                  |
-|     |   Discussion: Reflecting on Logical Constructs     |
-| 2   |   Topic: Data Types                   |
-|     |   Project: Build a Sandwich Machine                  |
-|     |   Discussion: Favorite Fact About Data Types or Data Structures     |
-| 3   |   Topic: Controlling Logic Flow                  |
-|     |   Project: FizzBuzz                                 |
+|     |   Project: Hello World                                  |
+|     |   Discussion: What is Programming     |
+| 2   |   Topic: Variables, Data Types, Operators and Logic                  |
+|     |   Project: Node 1                  |
+|     |   Discussion: Favorite Facts About Data Types     |
+| 3   |   Topic: Objects, Arrays, Functions, Looping and Events                  |
+|     |   Project: Node 2                                 |
 |     |   Discussion: Diagramming Logic Flow     |
-| 4   |   Topic: Organizing Code                   |
-|     |   Project: Text Adventure                            |
-|     |   Discussion: Conceptual Abstraction and Grouping    |
-| 5   |   Topic: Object Oriented Programming                |
+| 4   |   Topic: Intro to the Document Object Model (DOM) and Dynamic CSS/HTML                   |
+|     |   Project: DOM 1                            |
+|     |   Discussion: The Relationship between HTML, CSS and JS    |
+| 5   |   Topic: Data Driven DOM                |
+|     |   Project: DOM 2                            |
+|     |   Discussion: Asynchronous Commands    |
+| 6   |   Topic: Text Adventure - Managing States                  |
+|     |   Project: Text Adventure                             |
+|     |   Discussion: What is "state" in a computer program?    |
+| 7   |   Topic: Object Oriented Programming                |
 |     |   Project: Class Roster                            |
 |     |   Discussion: Understanding OOP     |
-| 6   |   Topic: The Document Object Model                   |
-|     |   Project: Image Maker                             |
-|     |  Discussion: The Relationship between HTML, CSS and JavaScript    |
-| 7   |   Topic: Handling Events                |
-|     |   Project: Browser Game                            |
-|     |   Discussion: Considering Events and Timing     |
 | 8   |   Topic: Final Project Planning                |
-|     |  Project: Final Project Proposal                           |
+|     |   Project: Tic Tac Toe App and Final Project Proposal                           |
 |     |   Discussion: Generating Ideas for Final Projects    |
 | 9   |   Topic: Final Project Preview                |
 |     |   Project: Final Project Preview                            |
