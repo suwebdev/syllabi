@@ -9,8 +9,8 @@ Becky Peltz
 ## WATS 4010 Building JavaScript Applications  
 
 Seattle University  
-peltzr\@seattleu.edu  
-206-296-5792
+<instructor email> 
+<instructor phone>
 
 Catalog Description
 -------------------
@@ -44,7 +44,7 @@ Students are able to combine a variety of frameworks, libraries, and modules to 
 12. Templating  
 
 
-**Software Archictecture:**   
+**Software Architecture:**   
 Students are able to understand, describe, and utilize more advanced forms of application organization, separation of concerns, and single sources of authority to build and maintain complex web applications. Rubrics based on
 mastery of:
 
@@ -103,7 +103,7 @@ business or creative potential.
 Learn how to work on a modern web development team, including basic
 tools like Git and GitHub, as well as core concepts in project
 management and collaboration. Also learn how to conduct a job hunt and
-practice interviewing and whiteboarding skills.
+practice interviewing and white boarding skills.
 
 **User Science**
 

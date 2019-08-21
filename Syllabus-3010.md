@@ -343,24 +343,24 @@ Schedule
 | 1   |   Topic: Development Environment Setup                   |
 |     |   Project: Hello World                                   |
 |     |   Discussion: Share Contact Info & First Experiences     |
-| 2   |   Topic: Content Structuring                             | 
-|     |   Project: Basic Markup                                  |
+| 2   |   Topic: Skills 1  Intro to HTML and CSS                          | 
+|     |   Project: Skills 1                                  |
 |     |   Discussion: Organizing Files: What\'s your experience? |
-| 3   |   Topic: Visual Styling                                  | 
-|     |   Project: Cascading Style Shee                                  |
+| 3   |   Topic: Project 1  Travel Blog                               | 
+|     |   Project: Project 1  Single Page Website                              |
 |     |   Discussion: What is the most mind-bending aspect of CSS? |
-| 4   |   Topic: Page Layout and Organization                          | 
-|     |   Project: Advanced Markup                                  |
+| 4   |   Topic: Skills 2 Layout and Media                          | 
+|     |   Project: Skills 2 Layout and Media                                  |
 |     |   Discussion: Naming Things |
-| 5   |   Topic: Embedded Media                             | 
-|     |   Project: Embedded Media                                  |
+| 5   |   Topic: Project 2  Layout and Media                           | 
+|     |   Project: Project 2 Golden Ratio                                  |
 |     |   Discussion: How do you get your media? |
-| 6   |   Topic: Embedded Media                             | 
+| 6   |   Topic: Design and Information Architecture                             | 
 |     |   Project: Bootstrap Planning                                  |
 |     |   Discussion: Design Impact |
 | 7   |   Topic: Advanced Visual Styling                             | 
 |     |   Project: Bootstrap Complete                                  |
-|     |   Discussion: How do you get your media? |
+|     |   Discussion: Design Roundup |
 | 8   |   Topic: Writing for the Web                             | 
 |     |   Project: Imaginary Product Page Design                      |
 |     |   Discussion: What do you read online? |
